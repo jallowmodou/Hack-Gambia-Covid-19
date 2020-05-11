@@ -1,0 +1,200 @@
+Patient's No,NAMES,COUNTRY,REGION/STATE,"REGION (LAT, LONG)",AGE,GENDER,ADRRESS,HOSPITAL,FROM OVERSEAS,,Patient's No,FROM OVERSEAS,Contracted the virus locally to
+PNOO1,Yankubah,The Gambia,West Coast Region,"13.2618375,-16.5937336",36,M,Banjul,Edward Francis Small Teaching Hospital,UK,,PNOO1,UK_01,
+PNOO2,Binta,The Gambia,West Coast Region,"13.2618375,-16.5937337",42,F,Serrekunda,Medical Research Council (MRC),,,,UK_01,PNOO41
+PNOO3,Yoro,The Gambia,West Coast Region,"13.2618375,-16.5937338",31,M,Bakau,Kanifing Hospital,,,,UK_01,PNOO196
+PNOO4,Saihou,The Gambia,West Coast Region,"13.2618375,-16.5937339",76,M,Sukuta,Brikama District Hospital,,,,UK_01,PNOO99
+PNOO5,Alieu,The Gambia,West Coast Region,"13.2618375,-16.5937340",54,M,Brufut,Medical Research Council (MRC),France,,PNOO5,France_01,
+PNOO6,Muhammed,The Gambia,West Coast Region,"13.2618375,-16.5937341",45,M,Yundum,Bwiam Hospital,,,,France_01,PNOO69
+PNOO7,Kebba,The Gambia,West Coast Region,"13.2618375,-16.5937342",38,M,Tanji,Edward Francis Small Teaching Hospital,,,,France_01,PNOO79
+PNOO8,Momodou Salieu,The Gambia,West Coast Region,"13.2618375,-16.5937343",22,M,Brikama,Edward Francis Small Teaching Hospital,,,,France_01,PNOO76
+PNOO9,Omar,The Gambia,West Coast Region,"13.2618375,-16.5937344",9,M,Pirang,Edward Francis Small Teaching Hospital,Spain,,PNOO9,Spain_01,
+PNOO10,Banta,The Gambia,West Coast Region,"13.2618375,-16.5937345",70,M,Gunjur,Edward Francis Small Teaching Hospital,,,,Spain_01,PNOO13
+PNOO11,Amadou,The Gambia,West Coast Region,"13.2618375,-16.5937346",61,M,Jiboro,Edward Francis Small Teaching Hospital,,,,Spain_01,PNOO80
+PNOO12,Karamo,The Gambia,West Coast Region,"13.2618375,-16.5937347",69,M,Kafuta,Edward Francis Small Teaching Hospital,,,,Spain_01,PNOO119
+PNOO13,Pahali,The Gambia,West Coast Region,"13.2618375,-16.5937348",70,M,Somita,Edward Francis Small Teaching Hospital,,,,Spain_01,PNOO63
+PNOO14,Sainey,The Gambia,West Coast Region,"13.2618375,-16.5937349",24,M,Sibanor,Edward Francis Small Teaching Hospital,,,,Spain_01,PNOO101
+PNOO15,Musakuta,The Gambia,West Coast Region,"13.2618375,-16.5937350",54,M,Bwiam,Edward Francis Small Teaching Hospital,,,,Spain_01,PNOO4
+PNOO16,Ibironke,The Gambia,West Coast Region,"13.2618375,-16.5937351",32,M,Banjul,Edward Francis Small Teaching Hospital,,,,Spain_01,PNOO136
+PNOO17,Alasan,The Gambia,West Coast Region,"13.2618375,-16.5937352",36,M,Banjul,Edward Francis Small Teaching Hospital,,,,Spain_01,PNOO86
+PNOO18,Ousman,The Gambia,West Coast Region,"13.2618375,-16.5937353",58,M,Tanji,Edward Francis Small Teaching Hospital,Italy,,PNOO18,Italy_1,
+PNOO19,Mohammed,The Gambia,West Coast Region,"13.2618375,-16.5937354",73,M,Banjul,Edward Francis Small Teaching Hospital,,,,Italy_1,PNOO127
+PNOO20,Kawsu,The Gambia,West Coast Region,"13.2618375,-16.5937355",22,M,Banjul,Edward Francis Small Teaching Hospital,,,,Italy_1,PNOO24
+PNOO21,Sutay,The Gambia,West Coast Region,"13.2618375,-16.5937356",48,M,Banjul,Edward Francis Small Teaching Hospital,,,,Italy_1,PNOO70
+PNOO22,Kairaba,The Gambia,West Coast Region,"13.2618375,-16.5937357",49,M,Sibanor,Edward Francis Small Teaching Hospital,,,,Italy_1,PNOO105
+PNOO23,Mohammed,The Gambia,West Coast Region,"13.2618375,-16.5937358",66,M,Banjul,Medical Research Council (MRC),,,,Italy_1,PNOO199
+PNOO24,Dalanda,The Gambia,West Coast Region,"13.2618375,-16.5937359",12,F,Banjul,Medical Research Council (MRC),,,,Italy_1,PNOO132
+PNOO25,Alaji,The Gambia,West Coast Region,"13.2618375,-16.5937360",24,M,Jiboro,Medical Research Council (MRC),,,,Italy_1,PNOO72
+PNOO26,Yankubah,The Gambia,West Coast Region,"13.2618375,-16.5937361",52,M,Banjul,Medical Research Council (MRC),,,,Italy_1,PNOO23
+PNOO27,Jariatou,The Gambia,West Coast Region,"13.2618375,-16.5937362",75,F,Banjul,Medical Research Council (MRC),,,,Italy_1,PNOO183
+PNOO28,Mariama,The Gambia,West Coast Region,"13.2618375,-16.5937363",53,F,Serrekunda,Medical Research Council (MRC),,,,Italy_1,PNOO131
+PNOO29,Lamin,The Gambia,West Coast Region,"13.2618375,-16.5937364",54,M,Serrekunda,Kanifing Hospital,,,,Italy_1,PNOO54
+PNOO30,Hamidou,The Gambia,West Coast Region,"13.2618375,-16.5937365",47,M,Serrekunda,Kanifing Hospital,,,,Italy_1,PNOO110
+PNOO31,Camara,The Gambia,West Coast Region,"13.2618375,-16.5937366",36,M,Serrekunda,Kanifing Hospital,,,,Italy_1,PNOO135
+PNOO32,Momodou Salieu,The Gambia,West Coast Region,"13.2618375,-16.5937367",35,M,Yundum,Kanifing Hospital,,,,Italy_1,PNOO140
+PNOO33,Kawsu,The Gambia,West Coast Region,"13.2618375,-16.5937368",44,M,Serrekunda,Kanifing Hospital,,,,Italy_1,PNOO57
+PNOO34,Idrissa,The Gambia,West Coast Region,"13.2618375,-16.5937369",66,M,Somita,Kanifing Hospital,,,,Italy_1,PNOO84
+PNOO35,Loli,The Gambia,West Coast Region,"13.2618375,-16.5937370",96,F,Serrekunda,Kanifing Hospital,,,,Italy_1,PNOO38
+PNOO36,Kebba,The Gambia,West Coast Region,"13.2618375,-16.5937371",88,M,Pirang,Kanifing Hospital,,,,Italy_1,PNOO124
+PNOO37,Jariatou,The Gambia,West Coast Region,"13.2618375,-16.5937372",77,F,Serrekunda,Brikama District Hospital,,,,Italy_1,PNOO193
+PNOO38,Yankubah,The Gambia,North Bank Region ,"13.485823,-16.2148058",68,M,Barra,Farafenni General Hospital,,,,Italy_1,PNOO40
+PNOO39,Sarjo,The Gambia,North Bank Region ,"13.485823,-16.2148059",66,F,Fass,Essau District Hospital,,,,Italy_1,PNOO78
+PNOO40,Halima,The Gambia,North Bank Region ,"13.485823,-16.2148060",49,F,Albreda,Essau District Hospital,,,,Italy_1,PNOO133
+PNOO41,Lamin,The Gambia,North Bank Region ,"13.485823,-16.2148061",58,M,Kerewan,Essau District Hospital,,,,Italy_1,PNOO30
+PNOO42,Pateh,The Gambia,North Bank Region ,"13.485823,-16.2148062",59,M,Farafenni,Essau District Hospital,,,,Italy_1,PNOO194
+PNOO43,Marie,The Gambia,Lower River Region ,"13.3964442,-15.9828463",57,F,Soma,Koina health centre,,,,Italy_1,PNOO120
+PNOO44,Musa,The Gambia,Lower River Region ,"13.3964442,-15.9828464",55,M,Kaiaf,Koina health centre,,,,Italy_1,PNOO60
+PNOO45,Sulayman,The Gambia,Lower River Region ,"13.3964442,-15.9828465",56,M,Mansakonko,Koina health centre,,,,Italy_1,PNOO165
+PNOO46,Mohammed,The Gambia,Lower River Region ,"13.3964442,-15.9828466",59,M,Kaiaf,Bwiam Hospital,,,,Italy_1,PNOO180
+PNOO47,Malick,The Gambia,Lower River Region ,"13.3964442,-15.9828467",69,M,Kaiaf,Bwiam Hospital,,,,Italy_1,PNOO35
+PNOO48,Kawsu,The Gambia,Lower River Region ,"13.3964442,-15.9828468",68,M,Soma,Bwiam Hospital,China,,PNOO48,Spain_2,
+PNOO49,Fatoumatta,The Gambia,Lower River Region ,"13.3964442,-15.9828469",54,F,Soma,Bwiam Hospital,,,,Spain_2,PNOO102
+PNOO50,Mustafa,The Gambia,Lower River Region ,"13.3964442,-15.9828470",35,M,Soma,Bwiam Hospital,,,,Spain_2,PNOO116
+PNOO51,Tairu,The Gambia,Lower River Region ,"13.3964442,-15.9828471",96,M,Mansakonko,Bwiam Hospital,,,,Spain_2,PNOO45
+PNOO52,Salimatou,The Gambia,Lower River Region ,"13.3964442,-15.9828472",54,F,Soma,Bwiam Hospital,,,,Spain_2,PNOO37
+PNOO53,Momodou Salieu,The Gambia,Central River Region ,"13.5722886,-15.5149183",64,M,Kaur,Bansang Hospital Appeal,,,,Spain_2,PNOO134
+PNOO54,Sira,The Gambia,Central River Region ,"13.5722886,-15.5149184",54,F,Wassu,Bansang Hospital Appeal,,,,Spain_2,PNOO74
+PNOO55,Jainaba,The Gambia,Central River Region ,"13.5722886,-15.5149185",82,M,Kuntaur,Bansang Hospital Appeal,,,,Spain_2,PNOO16
+PNOO56,Momodou Salieu,The Gambia,Central River Region ,"13.5722886,-15.5149186",62,M,Bansang,Bansang Hospital Appeal,,,,Spain_2,PNOO62
+PNOO57,Yaya,The Gambia,Central River Region ,"13.5722886,-15.5149187",62,M,Bansang,Bansang Hospital Appeal,,,,Spain_2,PNOO139
+PNOO58,Tairu,The Gambia,West Coast Region,"13.2618375,-16.5937336",63,F,Serrekunda,Kanifing Hospital,,,,Spain_2,PNOO104
+PNOO59,Sainey,The Gambia,West Coast Region,"13.2618375,-16.5937337",33,M,Serrekunda,Kanifing Hospital,,,,Spain_2,PNOO170
+PNOO60,Hassan,The Gambia,West Coast Region,"13.2618375,-16.5937338",45,M,Serrekunda,Kanifing Hospital,,,,Spain_2,PNOO142
+PNOO61,Lamin,The Gambia,North Bank Region ,"13.485823,-16.2148061",65,M,Kerewan,Farafenni General Hospital,,,,Spain_2,PNOO137
+PNOO62,Haddijatou,The Gambia,North Bank Region ,"13.485823,-16.2148062",74,F,Kerewan,Farafenni General Hospital,,,,Spain_2,PNOO89
+PNOO63,Fatou Bintou,The Gambia,North Bank Region ,"13.485823,-16.2148063",72,F,Kerewan,Farafenni General Hospital,,,,Spain_2,PNOO81
+PNOO64,Masane,The Gambia,North Bank Region ,"13.485823,-16.2148064",78,F,Kerewan,Farafenni General Hospital,Germany,,PNOO64,Germany_1,
+PNOO65,Idrissa,The Gambia,North Bank Region ,"13.485823,-16.2148065",73,M,Farafenni,Farafenni General Hospital,,,,Germany_1,PNOO17
+PNOO66,Kebba,The Gambia,North Bank Region ,"13.485823,-16.2148066",82,M,Farafenni,Farafenni General Hospital,,,,Germany_1,PNOO19
+PNOO67,Ebrima,The Gambia,North Bank Region ,"13.485823,-16.2148067",39,M,Farafenni,Farafenni General Hospital,,,,Germany_1,PNOO28
+PNOO68,Kaddijatou,The Gambia,North Bank Region ,"13.485823,-16.2148068",36,F,Farafenni,Farafenni General Hospital,,,,Germany_1,PNOO50
+PNOO69,Tijan,The Gambia,North Bank Region ,"13.485823,-16.2148069",23,M,Farafenni,Farafenni General Hospital,,,,Germany_1,PNOO186
+PNOO70,Musa,The Gambia,North Bank Region ,"13.485823,-16.2148070",29,M,Farafenni,Essau District Hospital,,,,Germany_1,PNOO100
+PNOO71,Seedy,The Gambia,North Bank Region ,"13.485823,-16.2148071",85,M,Farafenni,Essau District Hospital,,,,Germany_1,PNOO156
+PNOO72,Baturu,The Gambia,North Bank Region ,"13.485823,-16.2148072",72,M,Farafenni,Essau District Hospital,,,,Germany_1,PNOO32
+PNOO73,Musa,The Gambia,North Bank Region ,"13.485823,-16.2148073",45,M,Farafenni,Essau District Hospital,,,,Germany_1,PNOO178
+PNOO74,Haddy,The Gambia,North Bank Region ,"13.485823,-16.2148074",49,F,Barra,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO126
+PNOO75,Gibril,The Gambia,North Bank Region ,"13.485823,-16.2148075",62,M,Barra,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO121
+PNOO76,Tida,The Gambia,North Bank Region ,"13.485823,-16.2148076",82,F,Barra,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO106
+PNOO77,Baboucar,The Gambia,North Bank Region ,"13.485823,-16.2148077",58,M,Barra,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO66
+PNOO78,Ndey,The Gambia,North Bank Region ,"13.485823,-16.2148078",75,F,Barra,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO68
+PNOO79,Aminata,The Gambia,North Bank Region ,"13.485823,-16.2148079",69,F,Barra,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO161
+PNOO80,Adama,The Gambia,North Bank Region ,"13.485823,-16.2148080",49,F,Barra,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO15
+PNOO81,Nene,The Gambia,North Bank Region ,"13.485823,-16.2148081",55,F,Barra,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO44
+PNOO82,Gereh,The Gambia,North Bank Region ,"13.485823,-16.2148082",71,M,Barra,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO61
+PNOO83,Sutay,The Gambia,North Bank Region ,"13.485823,-16.2148083",67,F,Amdalie,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO94
+PNOO84,Tijan,The Gambia,North Bank Region ,"13.485823,-16.2148084",57,M,Amdalie,Edward Francis Small Teaching Hospital,,,,Germany_1,PNOO8
+PNOO85,Bella,The Gambia,North Bank Region ,"13.485823,-16.2148085",77,M,Amdalie,Edward Francis Small Teaching Hospital,Senegal,,PNOO85,Senegal_2,
+PNOO86,Bai,The Gambia,North Bank Region ,"13.485823,-16.2148086",32,M,Amdalie,Edward Francis Small Teaching Hospital,,,,Senegal_2,PNOO65
+PNOO87,Lamin,The Gambia,North Bank Region ,"13.485823,-16.2148087",53,M,Amdalie,Edward Francis Small Teaching Hospital,,,,Senegal_2,PNOO3
+PNOO88,Kebba,The Gambia,North Bank Region ,"13.485823,-16.2148088",91,M,Amdalie,Essau District Hospital,,,,Senegal_2,PNOO157
+PNOO89,Awa,The Gambia,North Bank Region ,"13.485823,-16.2148089",88,F,Amdalie,Essau District Hospital,,,,Senegal_2,PNOO159
+PNOO90,Ousman,The Gambia,North Bank Region ,"13.485823,-16.2148090",37,M,Amdalie,Essau District Hospital,,,,Senegal_2,PNOO93
+PNOO91,Masane,The Gambia,North Bank Region ,"13.485823,-16.2148091",65,M,Amdalie,Essau District Hospital,,,,Senegal_2,PNOO33
+PNOO92,Piretta,The Gambia,North Bank Region ,"13.485823,-16.2148092",81,F,Amdalie,Essau District Hospital,,,,Senegal_2,PNOO47
+PNOO93,Sheriffo,The Gambia,North Bank Region ,"13.485823,-16.2148093",76,M,Amdalie,Essau District Hospital,,,,Senegal_2,PNOO128
+PNOO94,Boro,The Gambia,North Bank Region ,"13.485823,-16.2148094",67,M,Amdalie,Essau District Hospital,,,,Senegal_2,PNOO96
+PNOO95,Asmatou,The Gambia,North Bank Region ,"13.485823,-16.2148095",54,F,Amdalie,Essau District Hospital,,,,Senegal_2,PNOO2
+PNOO96,Ebrima,The Gambia,West Coast Region,"13.2618375,-16.5937336",65,M,Bakau,Medical Research Council (MRC),,,,Senegal_2,PNOO98
+PNOO97,Yankubah,The Gambia,West Coast Region,"13.2618375,-16.5937337",71,M,Bakau,Medical Research Council (MRC),,,,Senegal_2,PNOO145
+PNOO98,Karamo,The Gambia,West Coast Region,"13.2618375,-16.5937338",75,M,Bakau,Medical Research Council (MRC),,,,Senegal_2,PNOO11
+PNOO99,Kawsu,The Gambia,West Coast Region,"13.2618375,-16.5937339",65,M,Bakau,Medical Research Council (MRC),,,,Senegal_2,PNOO42
+PNOO100,Saihou,The Gambia,Upper River Region ,"13.3964442,-15.9828463",56,M,Basse,Basse Health Centre,,,,Senegal_2,PNOO185
+PNOO101,Ebrima,The Gambia,Upper River Region ,"13.3964442,-15.9828464",87,M,Fatoto,Basse Health Centre,,,,Senegal_2,PNOO6
+PNOO102,Zal,The Gambia,Upper River Region ,"13.3964442,-15.9828465",32,M,Fatoto,Basse Health Centre,,,,Senegal_2,PNOO164
+PNOO103,Gibril,The Gambia,Upper River Region ,"13.3964442,-15.9828466",53,M,Fatoto,Basse Health Centre,Senegal,,PNOO103,Senegal_3,
+PNOO104,Fatou Bintou,The Gambia,Upper River Region ,"13.3964442,-15.9828467",58,F,Fatoto,Basse Health Centre,,,,Senegal_3,PNOO113
+PNOO105,Asmatou,The Gambia,Upper River Region ,"13.3964442,-15.9828468",32,F,Fatoto,Basse Health Centre,,,,Senegal_3,PNOO109
+PNOO106,Salimatou,The Gambia,Upper River Region ,"13.3964442,-15.9828469",23,F,Fatoto,Basse Health Centre,,,,Senegal_3,PNOO176
+PNOO107,Yaya,The Gambia,Upper River Region ,"13.3964442,-15.9828470",24,M,Fatoto,Basse Health Centre,,,,Senegal_3,PNOO182
+PNOO108,Kairaba,The Gambia,Upper River Region ,"13.3964442,-15.9828471",89,M,Basse,Basse Health Centre,,,,Senegal_3,PNOO92
+PNOO109,Chama,The Gambia,Lower River Region ,"13.3964442,-15.9828463",67,M,Mansakonko,Bwiam Hospital,,,,Senegal_3,PNOO67
+PNOO110,Karamo,The Gambia,Lower River Region ,"13.3964442,-15.9828464",48,M,Mansakonko,Bwiam Hospital,,,,Senegal_3,PNOO115
+PNOO111,Maimuna,The Gambia,Lower River Region ,"13.3964442,-15.9828465",47,F,Mansakonko,Bwiam Hospital,,,,Senegal_3,PNOO108
+PNOO112,Sailou,The Gambia,Lower River Region ,"13.3964442,-15.9828466",65,M,Mansakonko,Bwiam Hospital,Spain,,PNOO112,Spain_3,
+PNOO113,Musa,The Gambia,Lower River Region ,"13.3964442,-15.9828467",76,M,Kaiaf,Bwiam Hospital,,,,Spain_3,PNOO25
+PNOO114,Buba,The Gambia,Lower River Region ,"13.3964442,-15.9828468",57,M,Mansakonko,Bwiam Hospital,,,,Spain_3,PNOO31
+PNOO115,Momodou Salieu,The Gambia,Lower River Region ,"13.3964442,-15.9828469",86,M,Mansakonko,Bansang Hospital Appeal,,,,Spain_3,PNOO12
+PNOO116,Sohna,The Gambia,Lower River Region ,"13.3964442,-15.9828470",35,F,Soma,Bansang Hospital Appeal,,,,Spain_3,PNOO172
+PNOO117,Mandiki,The Gambia,Lower River Region ,"13.3964442,-15.9828471",75,M,Soma,Bansang Hospital Appeal,,,,Spain_3,PNOO114
+PNOO118,Sailou,The Gambia,Lower River Region ,"13.3964442,-15.9828472",65,M,Soma,Bansang Hospital Appeal,,,,Spain_3,PNOO36
+PNOO119,Masane,The Gambia,Central River Region ,"13.5722886,-15.5149183",35,F,Bansang,Jahaly Health Centre,,,,,
+PNOO120,Lamin,The Gambia,Central River Region ,"13.5722886,-15.5149184",66,M,Bansang,Bansang Hospital Appeal,,,,,PNOO179
+PNOO121,Musa,The Gambia,Central River Region ,"13.5722886,-15.5149185",47,M,Bansang,Jahaly Health Centre,,,,,PNOO34
+PNOO122,Demba,The Gambia,Central River Region ,"13.5722886,-15.5149186",63,M,Bansang,Jahaly Health Centre,,,,,PNOO88
+PNOO123,Mohammed,The Gambia,Central River Region ,"13.5722886,-15.5149187",54,M,Bansang,Jahaly Health Centre,,,,,PNOO22
+PNOO124,Yoro,The Gambia,Central River Region ,"13.5722886,-15.5149188",65,M,Kaur,Jahaly Health Centre,,,,,PNOO55
+PNOO125,Bala,The Gambia,Central River Region ,"13.5722886,-15.5149189",86,M,Kaur,Jahaly Health Centre,,,,,PNOO174
+PNOO126,Binta,The Gambia,Central River Region ,"13.5722886,-15.5149190",45,F,Kaur,Jahaly Health Centre,,,,,PNOO39
+PNOO127,Masane,The Gambia,Central River Region ,"13.5722886,-15.5149191",76,M,Kaur,Bansang Hospital Appeal,,,,,PNOO26
+PNOO128,Satang,The Gambia,Central River Region ,"13.5722886,-15.5149192",58,F,Kuntaur,Bansang Hospital Appeal,,,,,PNOO87
+PNOO129,Yaya,The Gambia,Central River Region ,"13.5722886,-15.5149193",65,M,Kuntaur,Bansang Hospital Appeal,US,,PNOO129,US_1,
+PNOO130,Pa Boy,The Gambia,Central River Region ,"13.5722886,-15.5149194",65,M,Kuntaur,Bansang Hospital Appeal,,,,US_1,PNOO107
+PNOO131,Hatabu,The Gambia,Central River Region ,"13.5722886,-15.5149195",87,M,Kuntaur,Bansang Hospital Appeal,,,,US_1,PNOO73
+PNOO132,Yaya,The Gambia,Central River Region ,"13.5722886,-15.5149196",46,M,Wassu,Bansang Hospital Appeal,,,,US_1,PNOO148
+PNOO133,Ramou,The Gambia,Central River Region ,"13.5722886,-15.5149197",75,F,Wassu,Bansang Hospital Appeal,,,,US_1,PNOO46
+PNOO134,Isatou ,The Gambia,Central River Region ,"13.5722886,-15.5149198",45,F,Wassu,Bansang Hospital Appeal,,,,US_1,PNOO191
+PNOO135,Malick,The Gambia,Central River Region ,"13.5722886,-15.5149199",87,M,Janjangbureh,Farafenni General Hospital,,,,US_1,PNOO21
+PNOO136,Camara,The Gambia,Central River Region ,"13.5722886,-15.5149200",56,M,Janjangbureh,Farafenni General Hospital,,,,US_1,PNOO20
+PNOO137,Cherno,The Gambia,Central River Region ,"13.5722886,-15.5149201",46,M,Janjangbureh,Farafenni General Hospital,,,,US_1,PNOO97
+PNOO138,Ablie Njie,The Gambia,Central River Region ,"13.5722886,-15.5149202",57,M,Janjangbureh,Farafenni General Hospital,Sweeden,,PNOO138,Sweeden_1,
+PNOO139,Muhammed,The Gambia,Central River Region ,"13.5722886,-15.5149203",86,M,Janjangbureh,Farafenni General Hospital,,,,Sweeden_1,PNOO27
+PNOO140,Gereh,The Gambia,Central River Region ,"13.5722886,-15.5149204",76,M,Janjangbureh,Farafenni General Hospital,,,,Sweeden_1,PNOO189
+PNOO141,Foday,The Gambia,Lower River Region ,"13.3964442,-15.9828472",56,M,Mansakonko,Bwiam Hospital,,,,Sweeden_1,PNOO154
+PNOO142,Hamidou,The Gambia,Lower River Region ,"13.3964442,-15.9828473",64,M,Kaiaf,Bwiam Hospital,,,,Sweeden_1,PNOO117
+PNOO143,Hatabu,The Gambia,Lower River Region ,"13.3964442,-15.9828474",46,M,Kaiaf,Bwiam Hospital,,,,Sweeden_1,PNOO75
+PNOO144,Isatou ,The Gambia,Lower River Region ,"13.3964442,-15.9828475",45,F,Kaiaf,Bwiam Hospital,,,,Sweeden_1,PNOO58
+PNOO145,Bella,The Gambia,Lower River Region ,"13.3964442,-15.9828476",35,F,Kaiaf,Bwiam Hospital,,,,Sweeden_1,PNOO130
+PNOO146,Samba,The Gambia,Lower River Region ,"13.3964442,-15.9828477",45,F,Soma,Bwiam Hospital,Dubai,,PNOO146,Dubai_2,
+PNOO147,Yaya,The Gambia,Lower River Region ,"13.3964442,-15.9828478",76,M,Soma,Bwiam Hospital,,,,Dubai_2,PNOO125
+PNOO148,Oumil,The Gambia,Lower River Region ,"13.3964442,-15.9828479",56,F,Soma,Bwiam Hospital,,,,Dubai_2,PNOO49
+PNOO149,Seedy,The Gambia,Upper River Region ,"13.3964442,-15.9828463",87,M,Basse,Basse Health Centre,,,,Dubai_2,PNOO122
+PNOO150,Momodou Salieu,The Gambia,Upper River Region ,"13.3964442,-15.9828464",67,M,Basse,Basse Health Centre,,,,Dubai_2,PNOO175
+PNOO151,Isa,The Gambia,Upper River Region ,"13.3964442,-15.9828465",56,F,Basse,Basse Health Centre,,,,Dubai_2,PNOO56
+PNOO152,Rohey,The Gambia,Upper River Region ,"13.3964442,-15.9828466",76,F,Basse,Basse Health Centre,,,,Dubai_2,PNOO71
+PNOO153,Malick,The Gambia,Upper River Region ,"13.3964442,-15.9828467",56,M,Basse,Basse Health Centre,,,,Dubai_2,PNOO118
+PNOO154,Musa,The Gambia,Upper River Region ,"13.3964442,-15.9828468",55,M,Basse,Basse Health Centre,,,,Dubai_2,PNOO187
+PNOO155,Hadim,The Gambia,Upper River Region ,"13.3964442,-15.9828469",76,M,Basse,Basse Health Centre,,,,Dubai_2,PNOO155
+PNOO156,Omar,The Gambia,Upper River Region ,"13.3964442,-15.9828470",56,M,Basse,Basse Health Centre,,,,Dubai_2,PNOO91
+PNOO157,Mama,The Gambia,Upper River Region ,"13.3964442,-15.9828471",47,F,Basse,Basse Health Centre,,,,Dubai_2,PNOO111
+PNOO158,Yaya,The Gambia,Upper River Region ,"13.3964442,-15.9828472",75,M,Basse,Basse Health Centre,,,,Dubai_2,PNOO90
+PNOO159,Kebba,The Gambia,Upper River Region ,"13.3964442,-15.9828473",64,M,Fatoto,Basse Health Centre,,,,Dubai_2,PNOO29
+PNOO160,Samba,The Gambia,Upper River Region ,"13.3964442,-15.9828474",98,M,Fatoto,Basse Health Centre,Germany,,PNOO160,Germany_2,
+PNOO161,Malick,The Gambia,Upper River Region ,"13.3964442,-15.9828475",65,M,Fatoto,Basse Health Centre,,,,Germany_2,PNOO7
+PNOO162,Sulayman,The Gambia,Upper River Region ,"13.3964442,-15.9828476",53,M,Fatoto,Basse Health Centre,,,,Germany_2,PNOO52
+PNOO163,Dalanda,The Gambia,North Bank Region ,"13.485823,-16.2148061",85,F,Amdalie,Farafenni General Hospital,,,,Germany_2,PNOO168
+PNOO164,Kutu,The Gambia,North Bank Region ,"13.485823,-16.2148062",35,M,Amdalie,Farafenni General Hospital,,,,Germany_2,PNOO123
+PNOO165,Hadim,The Gambia,North Bank Region ,"13.485823,-16.2148063",36,M,Amdalie,Farafenni General Hospital,,,,Germany_2,PNOO59
+PNOO166,Idrissa,The Gambia,North Bank Region ,"13.485823,-16.2148064",35,M,Amdalie,Farafenni General Hospital,,,,Germany_2,PNOO147
+PNOO167,Yoro,The Gambia,North Bank Region ,"13.485823,-16.2148065",73,M,Amdalie,Farafenni General Hospital,,,,Germany_2,PNOO53
+PNOO168,Malick,The Gambia,North Bank Region ,"13.485823,-16.2148066",23,M,Amdalie,Essau District Hospital,,,,Germany_2,PNOO83
+PNOO169,Binta,The Gambia,North Bank Region ,"13.485823,-16.2148067",12,F,Amdalie,Essau District Hospital,,,,Germany_2,PNOO95
+PNOO170,Tijan,The Gambia,North Bank Region ,"13.485823,-16.2148068",78,M,Amdalie,Essau District Hospital,,,,Germany_2,PNOO82
+PNOO171,Foday,The Gambia,North Bank Region ,"13.485823,-16.2148069",93,M,Barra,Essau District Hospital,,,,Germany_2,PNOO51
+PNOO172,Omar,The Gambia,North Bank Region ,"13.485823,-16.2148070",54,M,Barra,Essau District Hospital,,,,Germany_2,PNOO190
+PNOO173,Mohammed,The Gambia,North Bank Region ,"13.485823,-16.2148071",43,M,Barra,Essau District Hospital,,,,Germany_2,PNOO173
+PNOO174,Sarjo,The Gambia,North Bank Region ,"13.485823,-16.2148072",63,F,Barra,Essau District Hospital,,,,Germany_2,PNOO153
+PNOO175,Sheriff,The Gambia,North Bank Region ,"13.485823,-16.2148073",39,M,Barra,Essau District Hospital,,,,Germany_2,PNOO144
+PNOO176,Amadou,The Gambia,North Bank Region ,"13.485823,-16.2148074",12,M,Farafenni,Farafenni General Hospital,,,,Germany_2,PNOO188
+PNOO177,Tijan,The Gambia,North Bank Region ,"13.485823,-16.2148075",96,M,Farafenni,Farafenni General Hospital,Senegal,,PNOO177,,
+PNOO178,Isa,The Gambia,North Bank Region ,"13.485823,-16.2148076",22,F,Farafenni,Farafenni General Hospital,,,,,PNOO166
+PNOO179,Malick,The Gambia,North Bank Region ,"13.485823,-16.2148077",87,M,Farafenni,Edward Francis Small Teaching Hospital,,,,,PNOO151
+PNOO180,Isatou,The Gambia,North Bank Region ,"13.485823,-16.2148078",32,F,Farafenni,Farafenni General Hospital,,,,,PNOO152
+PNOO181,Famara,The Gambia,North Bank Region ,"13.485823,-16.2148079",66,M,Farafenni,Farafenni General Hospital,Senegal,,PNOO181,Senegal_1,
+PNOO182,Sarjo,The Gambia,North Bank Region ,"13.485823,-16.2148080",77,F,Farafenni,Farafenni General Hospital,,,,Senegal_1,PNOO149
+PNOO183,Mohammed,The Gambia,North Bank Region ,"13.485823,-16.2148081",86,M,Farafenni,Edward Francis Small Teaching Hospital,,,,Senegal_1,PNOO184
+PNOO184,Ousman,The Gambia,North Bank Region ,"13.485823,-16.2148082",69,M,Farafenni,Edward Francis Small Teaching Hospital,,,,Senegal_1,PNOO171
+PNOO185,Masane,The Gambia,West Coast Region,"13.2618375,-16.5937336",69,F,Serrekunda,Farafenni General Hospital,,,,Senegal_1,PNOO143
+PNOO186,Mampol,The Gambia,West Coast Region,"13.2618375,-16.5937337",57,F,Serrekunda,Edward Francis Small Teaching Hospital,,,,Senegal_1,PNOO163
+PNOO187,Mustafa,The Gambia,West Coast Region,"13.2618375,-16.5937338",72,M,Serrekunda,Edward Francis Small Teaching Hospital,,,,Senegal_1,PNOO77
+PNOO188,Teneng,The Gambia,West Coast Region,"13.2618375,-16.5937339",58,F,Serrekunda,Edward Francis Small Teaching Hospital,,,,Senegal_1,PNOO169
+PNOO189,Yoro,The Gambia,West Coast Region,"13.2618375,-16.5937340",86,M,Kanifing,Edward Francis Small Teaching Hospital,,,,Senegal_1,PNOO141
+PNOO190,Abdoulie,The Gambia,West Coast Region,"13.2618375,-16.5937341",55,M,Kanifing,Edward Francis Small Teaching Hospital,,,,Senegal_1,PNOO158
+PNOO191,Mustafa,The Gambia,West Coast Region,"13.2618375,-16.5937342",86,M,Kanifing,Edward Francis Small Teaching Hospital,,,,Senegal_1,PNOO162
+PNOO192,Karamo,The Gambia,West Coast Region,"13.2618375,-16.5937343",57,M,Kanifing,Kanifing Hospital,Dubai,,PNOO192,Dubai_1,
+PNOO193,Pa Boy,The Gambia,West Coast Region,"13.2618375,-16.5937344",36,M,Kanifing,Kanifing Hospital,,,,Dubai_1,PNOO150
+PNOO194,Bakary,The Gambia,West Coast Region,"13.2618375,-16.5937345",91,M,Brikama,Kanifing Hospital,,,,Dubai_1,PNOO14
+PNOO195,Musa,The Gambia,West Coast Region,"13.2618375,-16.5937346",87,M,Brikama,Kanifing Hospital,,,,Dubai_1,PNOO10
+PNOO196,Masane,The Gambia,West Coast Region,"13.2618375,-16.5937347",57,F,Brikama,Kanifing Hospital,,,,Dubai_1,PNOO43
+PNOO197,Pateh,The Gambia,West Coast Region,"13.2618375,-16.5937348",69,M,Brikama,Brikama District Hospital,China,,PNOO197,China_1,
+PNOO198,Hassan,The Gambia,West Coast Region,"13.2618375,-16.5937349",87,M,Brikama,Brikama District Hospital,,,,China_1,PNOO143
+PNOO199,Amat,The Gambia,West Coast Region,"13.2618375,-16.5937350",83,M,Brikama,Brikama District Hospital,,,,,
