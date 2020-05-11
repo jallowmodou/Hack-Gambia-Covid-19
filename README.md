@@ -1,1 +1,1 @@
-# Hack-Gambia-Covid-19
+# HackCovid-19-Gambia
