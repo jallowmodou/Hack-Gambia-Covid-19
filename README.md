@@ -10,7 +10,7 @@ The Aim and objective of this Hackathon is to amidst the growing uncertainty and
 3. Tracking and Monitoring progress and processes to improve performance, efficiency and prioritise resources to contain the virus.
 
 # INNOVATIVE DIGITAL INFRASTRUCTURE TO TACKLE THESE CONCERNS.
-   1. WEB APPLICATION = We built a website and a mobile Application to for users and frontliners to interact.
+   1. WEB APPLICATION = We built a website and a mobile Application for users and frontliners to interact.
    
    2. CLOUD COMPUTING = We designed a cloud Database on AWS platform to for storing, reading and writting data. 
    
